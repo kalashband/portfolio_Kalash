@@ -10,7 +10,7 @@ export const projects = [
     technologies: ["JavaScript", "HTML", "CSS"]
   },
   {
-    img: "https://github.com/kalashband/ZipCodeInfo/blob/master/Screenshot%202024-05-02%20115513.png",
+    img: "https://github.com/kalashband/ZipCodeInfo/blob/master/Screenshot%202024-05-02%20115513.png?raw=true",
     title: "Zip Code Information App ",
     des:
       "React application that allows users to enter a postal code and fetch information about that location.Enter you POSTAL code you'll get POSTAL location.",
@@ -21,7 +21,7 @@ export const projects = [
     technologies: ["JavaScript", "HTML", "CSS", "React"]
   },
   {
-  	img: 'https://github.com/kalashband/Food_delivary_WebSite/blob/master/Screenshot%202024-05-02%20140012.png',
+  	img: 'https://github.com/kalashband/Food_delivary_WebSite/blob/master/Screenshot%202024-05-02%20140012.png?raw=true',
   	title: 'Food Delivery Web App',
   	des: ' Build Reatjs Application Allow users to browse restaurants, cuisines, dishes, and place orders',
   	demo: '',
